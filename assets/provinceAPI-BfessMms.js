@@ -1,0 +1,1 @@
+var n=Object.defineProperty;var c=(o,e,r)=>e in o?n(o,e,{enumerable:!0,configurable:!0,writable:!0,value:r}):o[e]=r;var a=(o,e,r)=>c(o,typeof e!="symbol"?e+"":e,r);import{I as i}from"./index-DmUMvrSQ.js";class s extends i{constructor(){super(...arguments);a(this,"apiName","dictionary");a(this,"controllerName","Province")}}const m=new s;export{m as p};

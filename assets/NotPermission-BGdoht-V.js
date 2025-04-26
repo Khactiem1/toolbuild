@@ -1,0 +1,1 @@
+import{_ as o,a as s,o as n,b as e,t as a}from"./index-DmUMvrSQ.js";const c={},r={class:"container-table"},i={class:"container-table_header border-line-bottom"},_={class:"name-table text-uppercase"};function l(t,d){return n(),s("div",r,[e("div",i,[e("div",_,[e("h1",null,a(t.$t("i18nCommon.notPermission")),1)])])])}const p=o(c,[["render",l]]);export{p as default};

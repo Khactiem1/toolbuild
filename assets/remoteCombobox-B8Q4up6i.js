@@ -1,0 +1,1 @@
+const x=()=>({comboboxLoadData:(a,b,t,D,f=null)=>{a&&b&&b.getComboboxPaging(a).then(o=>{var g;typeof f=="function"&&(o=f(o),t[D]=o),o&&((g=o.Data)!=null&&g.PageData)&&(t[D]=o.Data.PageData)})}});export{x as u};
