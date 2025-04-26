@@ -1,0 +1,1 @@
+var n=Object.defineProperty;var i=(e,s,t)=>s in e?n(e,s,{enumerable:!0,configurable:!0,writable:!0,value:t}):e[s]=t;var a=(e,s,t)=>i(e,typeof s!="symbol"?s+"":s,t);import{I as o}from"./index-whgfsyUy.js";class r extends o{constructor(){super(...arguments);a(this,"apiName","dictionary");a(this,"controllerName","NewsList")}}const w=new r;export{w as n};
